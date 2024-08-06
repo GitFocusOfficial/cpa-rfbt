@@ -194,3 +194,5 @@
 | 20-06         | Other Rules on Benefits and Contributions                                                                 |
 | 20-07         | Remittance of Contributions and Employment Records                                                        |
 | 20-08         | Penal Clauses                                                                                             |
+---
+Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
