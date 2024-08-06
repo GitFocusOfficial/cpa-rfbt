@@ -2,7 +2,7 @@
 
 | Topic Number  | Topics                                                                | Duration  | Read 1    | Read 2    | Read 3    |
 |---------------|-----------------------------------------------------------------------|-----------|-----------|-----------|-----------|
-| 1             | Obligations                                                           |           |           |           |           |
+| 1             | Obligations                                                           |           |   [ ]     |   [ ]     |   [ ]     |
 | 1-01          | Obligations in General                                                |           |           |           |           |
 | 1-02          | Sources of Obligations                                                |           |           |           |           |
 | 1-03          | Kinds of Obligations Part I                                           |           |           |           |           |
